@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\tp modul 10\\tp modul 10_1302223110\\tp modul 10_1302223110\\tp modul 10_1302223110\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|solutionrelative:tp modul 10_1302223110\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\tp modul 10\\tp modul 10_1302223110\\tp modul 10_1302223110\\tp modul 10_1302223110\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|solutionrelative:tp modul 10_1302223110\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\tp modul 10\\tp modul 10_1302223110\\tp modul 10_1302223110\\tp modul 10_1302223110\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|solutionrelative:tp modul 10_1302223110\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\tp modul 10\\tp modul 10_1302223110\\tp modul 10_1302223110\\tp modul 10_1302223110\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|solutionrelative:tp modul 10_1302223110\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\tp modul 10\\tp modul 10_1302223110\\tp modul 10_1302223110\\tp modul 10_1302223110\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7286B414-B9E7-4C07-8FCA-848EE985C97C}|TP Modul 10_1302223110\\TP Modul 10_1302223110.csproj|solutionrelative:tp modul 10_1302223110\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\Program.cs",
               "RelativeDocumentMoniker": "TP Modul 10_1302223110\\Program.cs",
               "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\Program.cs",
               "RelativeToolTip": "TP Modul 10_1302223110\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T15:08:29.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TP Modul 10_1302223110\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TP Modul 10_1302223110\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:48:42.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "TP Modul 10_1302223110\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "TP Modul 10_1302223110\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:53:50.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "TP Modul 10_1302223110\\Mahasiswa.cs",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\Mahasiswa.cs",
+              "RelativeToolTip": "TP Modul 10_1302223110\\Mahasiswa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:58:12.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TP Modul 10_1302223110\\WeatherForecast.cs",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 10\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\TP Modul 10_1302223110\\WeatherForecast.cs",
+              "RelativeToolTip": "TP Modul 10_1302223110\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:46:38.159Z",
               "EditorCaption": ""
             }
           ]
